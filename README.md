@@ -1,5 +1,6 @@
 # Hi, I'm Jowin 👋
 
+
 I’m a dedicated and highly motivated Master’s student in **Embedded Systems Engineering** specializing in **Artificial Intelligence**, with a solid foundation in **Electronics and Communication Engineering**.  
 I’m passionate about data-driven predictive analytics, statistical modeling, and turning theory into impactful real-world solutions.
 
@@ -98,6 +99,8 @@ I’m passionate about data-driven predictive analytics, statistical modeling, a
 - Developing deep learning models (LSTM, autoencoders) in Python (Keras) to predict upper and lower limb joint angles from IMU sensor data.  
 - Processing large-scale real and synthetic IMU and motion capture datasets using NumPy and pandas.  
 - Evaluating model accuracy with MAE and RMSE metrics against ground truth joint angles.
+- Verifying the influence of synthetic data od model performance
+- ADLs include walking, jumping, getting up a floor, shelve-ordering, picking-up a pen, stair-climbing
 
 ---
 
