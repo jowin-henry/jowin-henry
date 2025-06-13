@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**jowin-henry/jowin-henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Jowin 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a dedicated and highly motivated Master’s student in **Embedded Systems Engineering** specializing in **Artificial Intelligence**, with a solid foundation in **Electronics and Communication Engineering**. I have a strong passion for data-driven predictive analytics, statistical modeling, and transforming theoretical knowledge into practical, impactful solutions.
+
+---
+
+## 🎓 Education
+
+* **M.Sc. Embedded Systems Engineering** (Focus: Artificial Intelligence)
+  Albert Ludwigs Universität Freiburg, Germany — *Current (GPA: 1.6 after fourth semester)*
+
+* **Bachelor of Engineering in Electronics and Communication**
+  PSG Institute of Technology and Applied Research, India — *Graduated 2022 with GPA 1.5*
+
+* **Higher Secondary Education**
+  The Vikasa School, India — *Scored 98.75%*
+
+---
+
+## 💻 Skills & Tech Stack
+
+* **Programming Languages:** Python, Embedded C, Java
+* **Machine Learning & Data Science:** TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, OpenCV
+* **MLOps Tools:** DVC, MLflow, GitHub Actions, Airflow, Docker, Kubernetes, REST API
+* **Cloud Platforms:** AWS SageMaker, AWS EC2, AWS S3, AWS IAM, Microsoft Azure (basics)
+* **Other Tools:** Git, Excel, SQL Databases, VIC-3D, VIC-Snap
+* **Operating Systems:** Windows, Linux (basics)
+
+---
+
+## 🚀 What I’ve Worked On
+
+* Developed end-to-end machine learning pipelines with tools like **DVC** and **MLflow** to enable reproducible, modular, and scalable workflows.
+* Built predictive models using classical ML algorithms (e.g., Random Forest) and deep learning architectures such as **Convolutional Neural Networks** for image-based tasks.
+* Processed and analyzed complex datasets, including image datasets and medical data, applying data cleaning, augmentation, and visualization techniques.
+* Deployed and managed ML experiment tracking servers on cloud platforms like **AWS EC2** and **S3**, implementing secure infrastructure with **IAM roles** and networking best practices.
+* Practiced strong MLOps principles for model versioning, experiment tracking, and collaboration to support scalable machine learning projects.
+
+---
+
+
+## 🔭 What I’m Working On
+
+### Master Thesis : Predicting human joint angles of upper ad lower limbs during a variety of ADLs (Activities of Daily Living) like walking, jumping, picking-up a pen, shelve-ordering,...
+Highlights :
+* Explores deep learning and AI techniques for sensor data and time series analysis.
+* Involves synthetic IMU and motion capture data.
+
+---
+
+## 📫 How to Reach Me
+
+* Email: [jowin@example.com](mailto:jowin@example.com)
+* LinkedIn: [linkedin.com/in/jowin](https://www.linkedin.com/in/jowin-henry/)
+
+
+---
+
+
+Thanks for visiting my profile! Feel free to explore my work and reach out if you want to collaborate or discuss ideas.
+
+
+
+---
+
+
+
+
+
+
