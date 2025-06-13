@@ -30,6 +30,10 @@ I’m a dedicated and highly motivated Master’s student in **Embedded Systems 
 
 ---
 
+If you want, I can help format this further or merge it into your GitHub profile README!
+
+---
+
 ## 🚀 What I’ve Worked On
 
 * Developed end-to-end machine learning pipelines with tools like **DVC** and **MLflow** to enable reproducible, modular, and scalable workflows.
@@ -45,8 +49,9 @@ I’m a dedicated and highly motivated Master’s student in **Embedded Systems 
 
 ### Master Thesis : Predicting human joint angles of upper ad lower limbs during a variety of ADLs (Activities of Daily Living) like walking, jumping, picking-up a pen, shelve-ordering,...
 Highlights :
-* Explores deep learning and AI techniques for sensor data and time series analysis.
-* Involves synthetic IMU and motion capture data.
+* Developing deep learning models (LSTM, autoencoders) in Python (Keras) to predict upper and lower limb joint angles from IMU sensor data.
+* Processing large-scale real and synthetic IMU and motion capture datasets using NumPy and pandas.
+* Evaluating model accuracy with MAE and RMSE against ground truth joint angles.
 
 ---
 
