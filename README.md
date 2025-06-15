@@ -1,7 +1,7 @@
 # Hi, I'm Jowin 👋
 
 
-I’m a dedicated and highly motivated Master’s student in **Embedded Systems Engineering** specializing in **Artificial Intelligence**, with a solid foundation in **Electronics and Communication Engineering**.  
+I’m a Master’s student in **Embedded Systems Engineering** specializing in **Artificial Intelligence**, with a solid foundation in **Electronics and Communication Engineering**.  
 I’m passionate about data-driven predictive analytics, statistical modeling, and turning theory into impactful real-world solutions.
 
 ---
@@ -82,6 +82,32 @@ I’m passionate about data-driven predictive analytics, statistical modeling, a
 
 ---
 
+## 🔭 What I’m Working On
+
+## Master Thesis: Human Joint-Angle Prediction from IMU Data for ADLs (Activities of Daily Living)
+
+- Developing deep learning models (LSTM, autoencoders) in Python (Keras) to predict upper and lower limb joint angles from IMU sensor data.  
+- Processing large-scale real and synthetic IMU and motion capture datasets using NumPy and pandas.  
+- Evaluating model accuracy with MAE and RMSE metrics against ground truth joint angles.
+- Verifying the influence of synthetic data on model performance
+- ADLs include walking, jumping, getting up a floor, shelve-ordering, picking-up a pen, stair-climbing
+
+## 🧪 Research Assistant – Digital Image Correlation of Pine Cones  
+**LivMatS, University of Freiburg**  
+_Project funded by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de/en/) | Oct 2024 – Present_  
+[LivMatS Cluster of Excellence](https://www.livmats.uni-freiburg.de/en)
+
+- Applied **Digital Image Correlation (DIC)** to quantify strain and displacement in pinecones under varied conditions, gaining experience in high-precision data acquisition and analysis relevant to materials and biomimetics research.  
+- Captured high-resolution stereo images using VIC-3D and VIC-Snap with **sub-pixel accuracy**.  
+- Performed **camera calibration**, stereo image rectification, and noise reduction to enable accurate strain field computation.  
+- Led structured data preparation and collaborated with interdisciplinary teams to optimize reproducible workflows.  
+- Presented results at the LivMatS Master Lab colloquium; scientific manuscript currently in preparation.  
+- 📌 [Poster presentation available on LinkedIn](https://www.linkedin.com/posts/jowin-henry_research-digitalimagecorrelation-biomimetics-activity-7316054256053035008-IRRr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK0K80BqZEOsQsKIUJOad4MreEt8LxdnLU)
+
+
+
+---
+
 ## 🚀 What I’ve Worked On
 
 - Developed end-to-end ML pipelines using **DVC** and **MLflow** to enable modular, reproducible, and scalable workflows.  
@@ -92,22 +118,11 @@ I’m passionate about data-driven predictive analytics, statistical modeling, a
 
 ---
 
-## 🔭 What I’m Working On
-
-### Master Thesis: Human Joint-Angle Prediction from IMU Data for ADLs (Activities of Daily Living)
-
-- Developing deep learning models (LSTM, autoencoders) in Python (Keras) to predict upper and lower limb joint angles from IMU sensor data.  
-- Processing large-scale real and synthetic IMU and motion capture datasets using NumPy and pandas.  
-- Evaluating model accuracy with MAE and RMSE metrics against ground truth joint angles.
-- Verifying the influence of synthetic data od model performance
-- ADLs include walking, jumping, getting up a floor, shelve-ordering, picking-up a pen, stair-climbing
-
----
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: [gmail](mailto:jowin.henry@gmail.com)  
-- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/jowin-henry/)  
+- ✉️ Email: [jowin.henry@gmail.com](mailto:jowin.henry@gmail.com)  
+- 🔗 LinkedIn: [jowin-henry](https://www.linkedin.com/in/jowin-henry/)  
 
 ---
 
