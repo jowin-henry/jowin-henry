@@ -112,9 +112,10 @@ _Project funded by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.d
 
 - Developed end-to-end ML pipelines using **DVC** and **MLflow** to enable modular, reproducible, and scalable workflows.  
 - Built predictive models with classical ML algorithms (Random Forest) and deep learning (CNNs) for image-based tasks.  
-- Processed complex datasets including images and medical data — applying cleaning, augmentation, and visualization techniques.  
+- Processed complex datasets including images and IMU data — applying cleaning, augmentation, and visualization techniques.  
 - Deployed and managed ML experiment tracking servers on **AWS EC2** and **S3**, configuring secure infrastructure with IAM roles.  
 - Applied strong MLOps practices for model versioning, experiment tracking, and team collaboration.
+- Built a **celebrity detector & Q/A system** powered by **LLMs & Vision Transformers**.  
 
 ---
 
