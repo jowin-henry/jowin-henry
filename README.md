@@ -57,9 +57,11 @@ I’m passionate about data-driven predictive analytics, statistical modeling, a
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="28"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" height="28"/>
   <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=swagger&logoColor=white" alt="REST API" height="28"/>
+  <img src="https://img.shields.io/badge/-LangChain-00BFFF?style=flat&logo=langchain&logoColor=white" alt="LangChain" height="28"/>
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" height="28"/>
   <img src="https://img.shields.io/badge/-AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white" alt="AWS SageMaker" height="28"/>
   <img src="https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS EC2" height="28"/>
   <img src="https://img.shields.io/badge/-AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="AWS S3" height="28"/>
