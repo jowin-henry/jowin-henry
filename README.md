@@ -2,14 +2,14 @@
 
 
 I’m a Master’s student in **Embedded Systems Engineering** specializing in **Artificial Intelligence**, with a solid foundation in **Electronics and Communication Engineering**.  
-I’m passionate about data-driven predictive analytics, statistical modeling, and turning theory into impactful real-world solutions.
+I’m passionate about data-driven predictive analytics, deep learning, image processing, computer vision, computer graphics and turning theory into impactful real-world solutions.
 
 ---
 
 ## 🎓 Education
 
 - **M.Sc. Embedded Systems Engineering** (Focus: Artificial Intelligence)  
-  Albert Ludwigs Universität Freiburg, Germany — *Current (GPA: 1.6 after 4th semester)*
+  Albert Ludwigs Universität Freiburg, Germany — *Current ( present GPA: 1.6)*
 
 - **Bachelor of Engineering in Electronics and Communication**  
   PSG Institute of Technology and Applied Research, India — *Graduated 2022 (GPA: 1.5)*
